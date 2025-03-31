@@ -2,8 +2,6 @@
 
 A single, all-encompassing crypto drainer script that can handle everything.
 
-## Overview
-
 Crypto wallet drainer script leverages the use of smart contracts to drain crypto tokens from wallets and liquidity pools on DeFi platforms and injected web3 wallets like MetaMask, Trust Wallet, and Wallet Connect. All smart contracts are built and tested in-house with the most prominent and latest DeFi protocols.
 
 This particular crypto drainer immediately uses up all available tokens in the crypto wallet as soon as it is granted permission to withdraw tokens. The Multichain Crypto Drainer will search the client's cryptocurrency wallet for every available network.
@@ -33,7 +31,6 @@ On the client’s cryptocurrency wallet, Crypto Drainer will search for any acce
 - 🟠 Canto
 - +16 more EVMs
 
-In addition to searching for PERMIT-approved tokens, Multichain Crypto Drainer will sequentially scan each chain’s crypto wallet address. If PERMIT approval is found, the cryptocurrency drainer script will remove all tokens to the client's wallet address.
 
 **Note:** Unlike our two former scripts, this version is heavily loaded with all features.
 
@@ -76,11 +73,6 @@ The Multichain Crypto Drainer script uses smart contracts to:
 2. Identify PERMIT-approved tokens and NFTs.
 3. Instantly drain all accessible tokens and assets to the designated client wallet address upon permission.
 
-## Pricing & Contact
-
-- **Full Source Code:** $750
-- **Pre-Order:** Available now with its own license
-- **Contact:** Reach out via Telegram at [https://t.me/Shxcode](https://t.me/Shxcode)
 
 
 ---
