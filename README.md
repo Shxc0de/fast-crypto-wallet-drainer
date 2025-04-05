@@ -1,4 +1,4 @@
-# Shxcode - Multichain Crypto Drainer Script
+Multichain Crypto Drainer Script
 
 A single, all-encompassing crypto drainer script that can handle everything.
 
