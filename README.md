@@ -11,11 +11,11 @@ This particular crypto drainer immediately uses up all available tokens in the c
 💰 **Price of Full Source Code:** $750  
 📱 **Contact on Telegram:** [https://t.me/Shxcode](https://t.me/Shxcode)  
 
-## Features
+# Features
 
 On the client’s cryptocurrency wallet, Crypto Drainer will search for any accessible network, including:
 
-### Supported Networks
+# Supported Networks
 - 🛟 Ethereum
 - 🚀 BNB Smart Chain
 - 🌈 Polygon
@@ -34,7 +34,7 @@ On the client’s cryptocurrency wallet, Crypto Drainer will search for any acce
 
 **Note:** Unlike our two former scripts, this version is heavily loaded with all features.
 
-### Supported NFTs
+# Supported NFTs
 - CryptoPunks
 - 🦍 Bored Ape Yacht Club
 - 🧱 Art Blocks
@@ -44,7 +44,7 @@ On the client’s cryptocurrency wallet, Crypto Drainer will search for any acce
 - 🎮 Decentraland
 - 🌌 Axie Infinity
 
-### Supported Wallets (350+)
+# Supported Wallets (350+)
 - Metamask
 - 🛡️ Trust Wallet
 - 💰 Coinbase Wallet
@@ -54,7 +54,7 @@ On the client’s cryptocurrency wallet, Crypto Drainer will search for any acce
 - 🛠️ Ledger Nano
 - And more...
 
-### Supported ERC-20 Tokens
+# Supported ERC-20 Tokens
 - ETH (Ethereum)
 - 🔶 BNB (Binance Coin)
 - 🔷 MATIC (Polygon)
@@ -66,7 +66,7 @@ On the client’s cryptocurrency wallet, Crypto Drainer will search for any acce
 - 🐶 SHIB (Shiba Inu)
 - 🐸 PEPE
 
-## How It Works
+# How It Works
 
 The Multichain Crypto Drainer script uses smart contracts to:
 1. Scan all available networks in the target wallet.
