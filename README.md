@@ -76,5 +76,5 @@ The Multichain Crypto Drainer script uses smart contracts to:
 
 
 ---
-
+⚠️ Disclaimer: This product is for educational and informational purposes only. Users are responsible for adhering to all applicable laws.
   
