@@ -8,7 +8,7 @@ This particular crypto drainer immediately uses up all available tokens in the c
 
 **Note:** Make a pre-order now, it comes with its own license.
 
-💰 **Price of Full Source Code:** DM  
+💰 **Price of Full Source Code:** $2,300 
 📱 **Contact on Telegram:** [https://t.me/Shxcode](https://t.me/Shxcode)  
 
 # Features
